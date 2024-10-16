@@ -1,5 +1,14 @@
 # Switch Firmware 19.0 / Atmosphere 1.8 Pre-release update: 
 
+Update #2: Oct 16th, 2024: 
+The official Atmosphere repository has been updated with a Pre-release of ``Atmosphere 1.8`` that is compatible with ``Switch Firmware 19.0`` - 
+* The files in the XGC Repository [here](https://github.com/Xieons-Gaming-Corner/Atmosphere_XGC_unstable_19.0release/tree/Xieon-patch-1/19.0support_prerelease_build) for ``Atmosphere_prerelease`` and ``Fusee.bin`` are the latest pre-release version copied from the official Atmosphere Repo - You can find the official pre-release these files were copied from [Atmosphere Releases](https://github.com/Atmosphere-NX/Atmosphere/releases)
+* * I currently do not know if this latest update breaks compatability with the programs such as ``Sysbot``, ``PkHex``, ``LiveHex``, & ``terafinder`` - 
+* * * When I get a chance to update them on my own systems and test them I will update with the compatability status - 
+
+The 1:1 Archive version of Atmosphere hosted in XGC's Org Github Repo's located [here](https://github.com/Xieons-Gaming-Corner/Atmosphere_XGC_unstable_19.0release/releases) will be updated after merging this branch, and commits into the unstable version with a pre-release containing the compiled pre-release files that are located in this no longer 1:1 archve repo - 
+
+
 Updated the pre-release with the following information: 
 
 Update: October 16th, 2024: Atmosphere 1.8.0 pre-release 
